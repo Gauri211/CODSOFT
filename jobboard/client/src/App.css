@@ -1,10 +1,10 @@
 .filter-btn {
-    display: none;
+    display: none !important;
 }
 
 @media(max-width: 780px) {
     .filter-btn {
-        display: block;
+        display: block !important;
     }
     .filter {
         display: none;

@@ -1,7 +1,7 @@
 import React from 'react';
 import { Box, Flex, Heading, Text, Button } from '@chakra-ui/react';
-import AllJobs from './Home/AllJobs';
-import Footer from '../Component/Footer';
+import AllJobs from './AllJobs';
+import Footer from '../../Component/Footer';
 
 const HomePage = () => {
   return (
